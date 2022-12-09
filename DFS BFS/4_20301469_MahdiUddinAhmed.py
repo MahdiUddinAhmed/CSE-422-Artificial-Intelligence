@@ -1,7 +1,5 @@
 g = open('Output.txt','w')
-#Mahdi Uddin Ahmed
-#20301469
-#S4
+
 #--------------PROBLEM1----------------#
 
 # Empty List to hold the 2D Array
