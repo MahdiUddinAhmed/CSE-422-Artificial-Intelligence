@@ -1,0 +1,13 @@
+Task1:
+Case1
+7
+Case2
+5
+
+Task2:
+Case1
+No one Survived
+Time:5 minutes
+Case2
+1 Survived
+Time:5 minutes
